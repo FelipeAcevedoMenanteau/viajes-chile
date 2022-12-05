@@ -45,7 +45,7 @@ body {
     background-color: #000000;
     opacity: 0.5;
     color: white;
-    transition: ease;
+    transition: ease 1s;
 }
 
 
