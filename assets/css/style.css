@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+}
+
+.navbar-dark .bg-transparent {
+    background-color: blue;
+}
+
+
+/*-- textos--*/
+
+.txt-body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.tit-dark {
+    color: #616161;
+}
+
+
+/*-- quienes somos --*/
+
+.ico {
+    font-size: 4.5rem;
+}
+
+@media (max-width: 575.98px) {
+    #quienes-somos {
+        display: none;
+    }
+}
+
+
+/*-- carousel--*/
+
+.nav-black {
+    background-color: #000000;
+    opacity: 0.5;
+    color: white;
+    transition: ease;
+}
+
+
+/* .alto-carousel {
+    min-height: 400px;
+} */
+
+
+/* @media (max-width: 575.98px) {
+    .carousel-item img {
+        height: 360px;
+        width: 900px !important;
+        text-align: center;
+        background-size: cover;
+    }
+    .carousel-item img {
+        height: 360px;
+        width: 900px !important;
+        text-align: center;
+        background-size: cover;
+    }
+
+} */
+
+
+/*-- formulario--*/
+
+.ancho-form {
+    max-width: 600px;
+}
+
+
+/*-- footer--*/
+
+.ancho-footer {
+    max-width: 600px;
+}
