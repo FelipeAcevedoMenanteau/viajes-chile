@@ -14,7 +14,7 @@ body {
 }
 
 
-/*-- cards--*/
+/*-- textos--*/
 
 .txt-body {
     font-family: 'Roboto', sans-serif;
@@ -47,6 +47,28 @@ body {
     color: white;
     transition: ease .3s;
 }
+
+
+/* .alto-carousel {
+    min-height: 400px;
+} */
+
+
+/* @media (max-width: 575.98px) {
+    .carousel-item img {
+        height: 360px;
+        width: 900px !important;
+        text-align: center;
+        background-size: cover;
+    }
+    .carousel-item img {
+        height: 360px;
+        width: 900px !important;
+        text-align: center;
+        background-size: cover;
+    }
+
+} */
 
 
 /*-- formulario--*/
